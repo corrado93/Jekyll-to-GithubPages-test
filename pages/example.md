@@ -1,10 +1,10 @@
 ---
-title: Example Page
+title: Example of a page creation
 nav: Example
-nav_order: 1
+nav_order: 2
 ---
 
-Write pages in Markdown.
+Write pages in Markdown. This is just to provide some info.
 
 ## Heading Two 
 
