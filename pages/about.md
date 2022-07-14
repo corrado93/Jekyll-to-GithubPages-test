@@ -2,6 +2,7 @@
 title: About This Template
 nav: About
 nav_order: 1
+layout: page
 ---
 
 [bootstrap-template](https://github.com/thecdil/bootstrap-template) is a basic template repository to create a [Bootstrap](https://getbootstrap.com/) site using Jekyll on GitHub Pages (or where every you want to host it). 
